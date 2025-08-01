@@ -38,8 +38,8 @@ ML, back-end developer. Bachelor student (final year). Age: 21.
 *(KSC — Kaspersky Security Center, KSE — Kaspersky Endpoint Security)*  
 
 ### 📈 **GitHub Stats**   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой-ник&layout=compact&theme=radical)](https://github.com/твой-ник)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой-ник&show_icons=true&theme=radical)](https://github.com/твой-ник)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konscig&layout=compact&theme=radical)](https://github.com/Konscig)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Konscig&show_icons=true&theme=radical)](https://github.com/Konscig)  
 
 ### 🔥 **Hackathons**
 - (https://github.com/Vladislav-Evg-Sid/Fixing-violations-of-the-rules-of-negotiations) – Окружной хакатон УФО Цифровой прорыв Челябинск 2024 (18 место)
