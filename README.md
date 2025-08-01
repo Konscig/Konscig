@@ -47,7 +47,7 @@ ML, back-end developer. Bachelor student (final year). Age: 21.
 - (https://github.com/Konscig/2gis-akinator) - ITMO AI Talent Weekend Новосибирск 2025 (1 место) 
 
 ### 📫 **Contacts**  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)] (https://t.me/Konscig)
-[![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk)] (https://vk.com/konscig)  
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram) (https://t.me/Konscig)
+![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk) (https://vk.com/konscig)  
 
 ### I'm glad to find a j*b )). Please leave mail or message.
